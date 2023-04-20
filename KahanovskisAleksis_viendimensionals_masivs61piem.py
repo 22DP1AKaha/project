@@ -5,4 +5,4 @@ for numurs in range(7):
     if temperatūra[numurs]>25:
         dienu_skaits = dienu_skaits + 1
 
-print('karstāko dienu skaits bija', dienu_skaits)
+print('Karstāko dienu skaits bija', dienu_skaits)

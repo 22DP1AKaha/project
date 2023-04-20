@@ -13,5 +13,4 @@ sk[9] = 24
 summa = 0
 for indekss in range(10):
     summa = summa + sk[indekss]
-
-print (summa)
+print(summa)
